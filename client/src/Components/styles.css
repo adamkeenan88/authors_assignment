@@ -1,0 +1,39 @@
+td {
+  border: 1px solid black;
+  text-align: left;
+}
+.allAuthors {
+  margin-top: 10px;
+}
+section {
+  display: flex;
+  align-items: center;
+  height: 120px;
+  width: auto;
+}
+.petAuthor {
+  height: 60px;
+  font-size: 45px;
+  margin: 5px;
+  width: 300px;
+}
+.linkBox {
+  height: 60px;
+  width: 230px;
+  margin-left: 55%;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  height: 300px;
+  width: 500px;
+  margin: 20px;
+  border: 1px solid black;
+}
+
+.newauthor {
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 100px;
+}
